@@ -1,0 +1,25 @@
+<html> Es la etiqueta que indica que nuestro documento será un HTML. Recuerda que HTML es el lenguaje de modelado, que nos permite crear la arquitectura de nuestro sitio. No es un lenguaje de programación.
+
+<head> En esta etiqueta en principio no va nada que afecte el contenido visible a los ojos del usuario que visita tu página, salvo el título de la misma. En esta etiqueta es donde agregaremos algunas meta etiquetas para darle más contexto a Google sobre el contenido que ofrece nuestro sitio web.
+
+<title> Es la etiqueta que indica el título de a página en la que estamos, dentro de un sitio web. Este título solo es visible para el usuario como el título de la pestaña del navegador.
+
+<body> En esta etiqueta incluimos todo el contenido visible para el usuario.
+
+<div> Es una etiqueta que nos permite crear una “caja” o división para agrupar un contenido determinado. Por sí misma no tiene ninguna connotación semántica para los navegadores o motores de búsqueda.
+
+<h1> Es la etiqueta que le ponemos al título más importante de la página. Solo debe haber una de estas por cada página de tu sitio web.
+
+<h2> <h3> <h4> Son las etiquetas que usamos para poner subtítulos. A medida que el número crece la jerarquía disminuye.
+
+<p> Etiqueta para agregar párrafos de texto.
+
+<img> Etiqueta para agregar imágenes.
+
+<a> Etiqueta para agregar enlaces.
+
+<ul> Indica que a continuación viene una lista no ordenada.
+
+<ol> Indica que a continuación viene una lista ordenada.
+
+<li> Agrega elementos de una lista ordenada o no ordenada.
